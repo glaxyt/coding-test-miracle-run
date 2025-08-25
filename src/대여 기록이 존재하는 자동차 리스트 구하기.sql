@@ -1,0 +1,6 @@
+-- 코드를 입력하세요
+SELECT C.car_id
+FROM CAR_RENTAL_COMPANY_CAR C JOIN CAR_RENTAL_COMPANY_RENTAL_HISTORY H ON C.car_id = H.car_id
+WHERE C.car_type = '세단' AND H.start_date BETWEEN '2022-10-01' AND '2022-11-01'
+GROUP BY C.car_id
+ORDER BY C.car_id DESC;
