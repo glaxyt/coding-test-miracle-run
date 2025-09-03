@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-// 11시 1분 시작.
+// 11시 1분 시작
 public class Boj1719 {
     static int[][] graph;
     static int[][] answer;

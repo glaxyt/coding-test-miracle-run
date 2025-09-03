@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-// 10시 9분 시작.
+// 10시 9분 시작
 public class Boj28353 {
 
     public static void main(String[] args) throws Exception {

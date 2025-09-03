@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-// 10시 18분 시작.
+// 10시 18분 시작
 public class Boj17265 {
     static char[][] grid;
     static final int[][] DXYS = {{0, 1}, {1, 0}};
